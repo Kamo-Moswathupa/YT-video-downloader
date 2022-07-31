@@ -4,4 +4,4 @@
 
 Pytube
 
-<!--KAMO-->
+pip3 install pytube
