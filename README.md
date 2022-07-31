@@ -1,8 +1,9 @@
 # YT-video-downloader
+A basic YouTube video downloader made with python
 
 ## Prerequisites
 
-Pytube
+Install Pytube
 
 ```bash
 pip install pytube
