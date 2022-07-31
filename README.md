@@ -4,4 +4,6 @@
 
 Pytube
 
+```bash
 pip install pytube
+```
